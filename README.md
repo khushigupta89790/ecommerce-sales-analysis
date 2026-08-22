@@ -1,6 +1,18 @@
 # E-Commerce Sales Analysis
 
 A Python-based data analysis project exploring e-commerce sales, profit, product performance, category performance, regional trends, and time-based sales patterns.
+## 📂 Dataset
+
+The dataset used for this project was obtained from Kaggle.
+
+**Dataset:** E-commerce Orders and Sales Performance Dataset  
+**Source:** [Kaggle — E-commerce Orders and Sales Performance Dataset](https://www.kaggle.com/datasets/zahranusratt/e-commerce-orders-and-sales-performance-dataset)
+
+The dataset contains e-commerce sales information including products, categories, regions, dates, sales, profit, and quantity sold.
+
+A copy of the dataset used for this analysis is included in this repository as:
+
+`ecommerce_sales_data (2).csv`
 
 ## 📌 Project Overview
 
